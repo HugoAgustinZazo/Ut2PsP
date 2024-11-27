@@ -1,0 +1,148 @@
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Cartero - Quiero enviar la carta: 1
+2024-11-14 13:15:35 [DUEÑO_1] INFO  org.example.cuentas.mutiple.Buzon - Intentando recoger correo...
+2024-11-14 13:15:35 [DUEÑO_1] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Buzon - Intentando poner carta...
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Buzon - Por fin, han recogido la carta. Pongo una nueva
+2024-11-14 13:15:35 [DUEÑO_11] INFO  org.example.cuentas.mutiple.Buzon - Intentando recoger correo...
+2024-11-14 13:15:35 [DUEÑO_11] INFO  org.example.cuentas.mutiple.Buzon - Bien, ya hay correo!
+2024-11-14 13:15:35 [DUEÑO_15] INFO  org.example.cuentas.mutiple.Buzon - Intentando recoger correo...
+2024-11-14 13:15:35 [DUEÑO_15] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [DUEÑO_11] INFO  org.example.cuentas.mutiple.Duenio - Recibí una carta! : 1
+2024-11-14 13:15:35 [DUEÑO_14] INFO  org.example.cuentas.mutiple.Buzon - Intentando recoger correo...
+2024-11-14 13:15:35 [DUEÑO_14] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [DUEÑO_13] INFO  org.example.cuentas.mutiple.Buzon - Intentando recoger correo...
+2024-11-14 13:15:35 [DUEÑO_13] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [DUEÑO_12] INFO  org.example.cuentas.mutiple.Buzon - Intentando recoger correo...
+2024-11-14 13:15:35 [DUEÑO_12] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [DUEÑO_10] INFO  org.example.cuentas.mutiple.Buzon - Intentando recoger correo...
+2024-11-14 13:15:35 [DUEÑO_10] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [DUEÑO_9] INFO  org.example.cuentas.mutiple.Buzon - Intentando recoger correo...
+2024-11-14 13:15:35 [DUEÑO_9] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [DUEÑO_8] INFO  org.example.cuentas.mutiple.Buzon - Intentando recoger correo...
+2024-11-14 13:15:35 [DUEÑO_8] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [DUEÑO_7] INFO  org.example.cuentas.mutiple.Buzon - Intentando recoger correo...
+2024-11-14 13:15:35 [DUEÑO_7] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [DUEÑO_6] INFO  org.example.cuentas.mutiple.Buzon - Intentando recoger correo...
+2024-11-14 13:15:35 [DUEÑO_6] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [DUEÑO_5] INFO  org.example.cuentas.mutiple.Buzon - Intentando recoger correo...
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Cartero - Quiero enviar la carta: 2
+2024-11-14 13:15:35 [DUEÑO_5] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [DUEÑO_4] INFO  org.example.cuentas.mutiple.Buzon - Intentando recoger correo...
+2024-11-14 13:15:35 [DUEÑO_4] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [DUEÑO_3] INFO  org.example.cuentas.mutiple.Buzon - Intentando recoger correo...
+2024-11-14 13:15:35 [DUEÑO_3] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [DUEÑO_2] INFO  org.example.cuentas.mutiple.Buzon - Intentando recoger correo...
+2024-11-14 13:15:35 [DUEÑO_2] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Buzon - Intentando poner carta...
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Buzon - Por fin, han recogido la carta. Pongo una nueva
+2024-11-14 13:15:35 [DUEÑO_1] INFO  org.example.cuentas.mutiple.Buzon - Bien, ya hay correo!
+2024-11-14 13:15:35 [DUEÑO_1] INFO  org.example.cuentas.mutiple.Duenio - Recibí una carta! : 2
+2024-11-14 13:15:35 [DUEÑO_14] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [DUEÑO_15] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Cartero - Quiero enviar la carta: 3
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Buzon - Intentando poner carta...
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Buzon - Por fin, han recogido la carta. Pongo una nueva
+2024-11-14 13:15:35 [DUEÑO_13] INFO  org.example.cuentas.mutiple.Buzon - Bien, ya hay correo!
+2024-11-14 13:15:35 [DUEÑO_13] INFO  org.example.cuentas.mutiple.Duenio - Recibí una carta! : 3
+2024-11-14 13:15:35 [DUEÑO_12] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Cartero - Quiero enviar la carta: 4
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Buzon - Intentando poner carta...
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Buzon - Por fin, han recogido la carta. Pongo una nueva
+2024-11-14 13:15:35 [DUEÑO_10] INFO  org.example.cuentas.mutiple.Buzon - Bien, ya hay correo!
+2024-11-14 13:15:35 [DUEÑO_10] INFO  org.example.cuentas.mutiple.Duenio - Recibí una carta! : 4
+2024-11-14 13:15:35 [DUEÑO_9] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Cartero - Quiero enviar la carta: 5
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Buzon - Intentando poner carta...
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Buzon - Por fin, han recogido la carta. Pongo una nueva
+2024-11-14 13:15:35 [DUEÑO_8] INFO  org.example.cuentas.mutiple.Buzon - Bien, ya hay correo!
+2024-11-14 13:15:35 [DUEÑO_8] INFO  org.example.cuentas.mutiple.Duenio - Recibí una carta! : 5
+2024-11-14 13:15:35 [DUEÑO_7] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [DUEÑO_11] INFO  org.example.cuentas.mutiple.Buzon - Intentando recoger correo...
+2024-11-14 13:15:35 [DUEÑO_11] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Cartero - Quiero enviar la carta: 6
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Buzon - Intentando poner carta...
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Buzon - Por fin, han recogido la carta. Pongo una nueva
+2024-11-14 13:15:35 [DUEÑO_6] INFO  org.example.cuentas.mutiple.Buzon - Bien, ya hay correo!
+2024-11-14 13:15:35 [DUEÑO_6] INFO  org.example.cuentas.mutiple.Duenio - Recibí una carta! : 6
+2024-11-14 13:15:35 [DUEÑO_5] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [DUEÑO_1] INFO  org.example.cuentas.mutiple.Buzon - Intentando recoger correo...
+2024-11-14 13:15:35 [DUEÑO_1] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Cartero - Quiero enviar la carta: 7
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Buzon - Intentando poner carta...
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Buzon - Por fin, han recogido la carta. Pongo una nueva
+2024-11-14 13:15:35 [DUEÑO_4] INFO  org.example.cuentas.mutiple.Buzon - Bien, ya hay correo!
+2024-11-14 13:15:35 [DUEÑO_3] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [DUEÑO_4] INFO  org.example.cuentas.mutiple.Duenio - Recibí una carta! : 7
+2024-11-14 13:15:35 [DUEÑO_13] INFO  org.example.cuentas.mutiple.Buzon - Intentando recoger correo...
+2024-11-14 13:15:35 [DUEÑO_13] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Cartero - Quiero enviar la carta: 8
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Buzon - Intentando poner carta...
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Buzon - Por fin, han recogido la carta. Pongo una nueva
+2024-11-14 13:15:35 [DUEÑO_2] INFO  org.example.cuentas.mutiple.Buzon - Bien, ya hay correo!
+2024-11-14 13:15:35 [DUEÑO_14] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [DUEÑO_2] INFO  org.example.cuentas.mutiple.Duenio - Recibí una carta! : 8
+2024-11-14 13:15:35 [DUEÑO_10] INFO  org.example.cuentas.mutiple.Buzon - Intentando recoger correo...
+2024-11-14 13:15:35 [DUEÑO_10] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Cartero - Quiero enviar la carta: 9
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Buzon - Intentando poner carta...
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Buzon - Por fin, han recogido la carta. Pongo una nueva
+2024-11-14 13:15:35 [DUEÑO_15] INFO  org.example.cuentas.mutiple.Buzon - Bien, ya hay correo!
+2024-11-14 13:15:35 [DUEÑO_15] INFO  org.example.cuentas.mutiple.Duenio - Recibí una carta! : 9
+2024-11-14 13:15:35 [DUEÑO_12] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [DUEÑO_8] INFO  org.example.cuentas.mutiple.Buzon - Intentando recoger correo...
+2024-11-14 13:15:35 [DUEÑO_8] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Cartero - Quiero enviar la carta: 10
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Buzon - Intentando poner carta...
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Buzon - Por fin, han recogido la carta. Pongo una nueva
+2024-11-14 13:15:35 [DUEÑO_9] INFO  org.example.cuentas.mutiple.Buzon - Bien, ya hay correo!
+2024-11-14 13:15:35 [DUEÑO_7] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [DUEÑO_9] INFO  org.example.cuentas.mutiple.Duenio - Recibí una carta! : 10
+2024-11-14 13:15:35 [DUEÑO_6] INFO  org.example.cuentas.mutiple.Buzon - Intentando recoger correo...
+2024-11-14 13:15:35 [DUEÑO_6] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Cartero - Quiero enviar la carta: FIN
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Buzon - Intentando poner carta...
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Buzon - Por fin, han recogido la carta. Pongo una nueva
+2024-11-14 13:15:35 [DUEÑO_11] INFO  org.example.cuentas.mutiple.Buzon - Bien, ya hay correo!
+2024-11-14 13:15:35 [DUEÑO_11] INFO  org.example.cuentas.mutiple.Duenio - Recibí una carta! : FIN
+2024-11-14 13:15:35 [DUEÑO_5] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [DUEÑO_4] INFO  org.example.cuentas.mutiple.Buzon - Intentando recoger correo...
+2024-11-14 13:15:35 [DUEÑO_4] INFO  org.example.cuentas.mutiple.Buzon - Mierda, el buzón está vacío. Deberé esperar..
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Cartero - [El cartero termina su ejecucion]
+2024-11-14 13:15:35 [CARTERO] INFO  org.example.cuentas.mutiple.Buzon - -ENVIO TERMINADO-
+2024-11-14 13:15:35 [DUEÑO_1] INFO  org.example.cuentas.mutiple.Buzon - Bien, ya hay correo!
+2024-11-14 13:15:35 [DUEÑO_1] INFO  org.example.cuentas.mutiple.Duenio - Recibí una carta! : null
+2024-11-14 13:15:35 [DUEÑO_4] INFO  org.example.cuentas.mutiple.Buzon - Bien, ya hay correo!
+2024-11-14 13:15:35 [DUEÑO_4] INFO  org.example.cuentas.mutiple.Duenio - Recibí una carta! : null
+2024-11-14 13:15:35 [DUEÑO_5] INFO  org.example.cuentas.mutiple.Buzon - Bien, ya hay correo!
+2024-11-14 13:15:35 [DUEÑO_5] INFO  org.example.cuentas.mutiple.Duenio - Recibí una carta! : null
+2024-11-14 13:15:35 [DUEÑO_6] INFO  org.example.cuentas.mutiple.Buzon - Bien, ya hay correo!
+2024-11-14 13:15:35 [DUEÑO_6] INFO  org.example.cuentas.mutiple.Duenio - Recibí una carta! : null
+2024-11-14 13:15:35 [DUEÑO_7] INFO  org.example.cuentas.mutiple.Buzon - Bien, ya hay correo!
+2024-11-14 13:15:35 [DUEÑO_8] INFO  org.example.cuentas.mutiple.Buzon - Bien, ya hay correo!
+2024-11-14 13:15:35 [DUEÑO_7] INFO  org.example.cuentas.mutiple.Duenio - Recibí una carta! : null
+2024-11-14 13:15:35 [DUEÑO_8] INFO  org.example.cuentas.mutiple.Duenio - Recibí una carta! : null
+2024-11-14 13:15:35 [DUEÑO_12] INFO  org.example.cuentas.mutiple.Buzon - Bien, ya hay correo!
+2024-11-14 13:15:35 [DUEÑO_10] INFO  org.example.cuentas.mutiple.Buzon - Bien, ya hay correo!
+2024-11-14 13:15:35 [DUEÑO_12] INFO  org.example.cuentas.mutiple.Duenio - Recibí una carta! : null
+2024-11-14 13:15:35 [DUEÑO_14] INFO  org.example.cuentas.mutiple.Buzon - Bien, ya hay correo!
+2024-11-14 13:15:35 [DUEÑO_10] INFO  org.example.cuentas.mutiple.Duenio - Recibí una carta! : null
+2024-11-14 13:15:35 [DUEÑO_14] INFO  org.example.cuentas.mutiple.Duenio - Recibí una carta! : null
+2024-11-14 13:15:35 [DUEÑO_13] INFO  org.example.cuentas.mutiple.Buzon - Bien, ya hay correo!
+2024-11-14 13:15:35 [DUEÑO_13] INFO  org.example.cuentas.mutiple.Duenio - Recibí una carta! : null
+2024-11-14 13:15:35 [DUEÑO_3] INFO  org.example.cuentas.mutiple.Buzon - Bien, ya hay correo!
+2024-11-14 13:15:35 [DUEÑO_3] INFO  org.example.cuentas.mutiple.Duenio - Recibí una carta! : null
+2024-11-14 13:15:35 [DUEÑO_2] INFO  org.example.cuentas.mutiple.Duenio - Mensajes recibidos: [8]
+2024-11-14 13:15:35 [DUEÑO_15] INFO  org.example.cuentas.mutiple.Duenio - Mensajes recibidos: [9]
+2024-11-14 13:15:35 [DUEÑO_9] INFO  org.example.cuentas.mutiple.Duenio - Mensajes recibidos: [10]
+2024-11-14 13:15:35 [DUEÑO_11] INFO  org.example.cuentas.mutiple.Duenio - Mensajes recibidos: [1, FIN]
+2024-11-14 13:15:35 [DUEÑO_1] INFO  org.example.cuentas.mutiple.Duenio - Mensajes recibidos: [2, null]
+2024-11-14 13:15:35 [DUEÑO_4] INFO  org.example.cuentas.mutiple.Duenio - Mensajes recibidos: [7, null]
+2024-11-14 13:15:35 [DUEÑO_5] INFO  org.example.cuentas.mutiple.Duenio - Mensajes recibidos: [null]
+2024-11-14 13:15:35 [DUEÑO_6] INFO  org.example.cuentas.mutiple.Duenio - Mensajes recibidos: [6, null]
+2024-11-14 13:15:35 [DUEÑO_8] INFO  org.example.cuentas.mutiple.Duenio - Mensajes recibidos: [5, null]
+2024-11-14 13:15:35 [DUEÑO_7] INFO  org.example.cuentas.mutiple.Duenio - Mensajes recibidos: [null]
+2024-11-14 13:15:35 [DUEÑO_12] INFO  org.example.cuentas.mutiple.Duenio - Mensajes recibidos: [null]
+2024-11-14 13:15:35 [DUEÑO_10] INFO  org.example.cuentas.mutiple.Duenio - Mensajes recibidos: [4, null]
+2024-11-14 13:15:35 [DUEÑO_14] INFO  org.example.cuentas.mutiple.Duenio - Mensajes recibidos: [null]
+2024-11-14 13:15:35 [DUEÑO_13] INFO  org.example.cuentas.mutiple.Duenio - Mensajes recibidos: [3, null]
+2024-11-14 13:15:35 [DUEÑO_3] INFO  org.example.cuentas.mutiple.Duenio - Mensajes recibidos: [null]
